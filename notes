@@ -12,3 +12,11 @@ const Myfunction = () => {
 }
 
 const h2element= <h2>Hello World</h2>
+
+-------------------------
+Visual Editor Extensions
+-------------------------
+
+Quokka Js - Command + Shift + P
+
+npx create-react-app .

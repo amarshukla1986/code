@@ -4,3 +4,11 @@ Express: Node.js framework which simplied the usage of Node.js by giving routing
 MongoDB: Stores date in JSON format, Schema less
 
 JSX - Java Script Extension
+
+const Myfunction = () => {
+  return (
+    <h2>Heading</h2>
+  )
+}
+
+const h2element= <h2>Hello World</h2>

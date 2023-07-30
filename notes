@@ -1,0 +1,6 @@
+React JS: JS library for building user interafces in HTML, CSS, JS. Used for single page Apps
+Node JS: Run time JS environment that allows javascript to execute outside browser
+Express: Node.js framework which simplied the usage of Node.js by giving routing, fetch etc
+MongoDB: Stores date in JSON format, Schema less
+
+JSX - Java Script Extension

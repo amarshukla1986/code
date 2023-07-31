@@ -20,3 +20,17 @@ Visual Editor Extensions
 Quokka Js - Command + Shift + P
 
 npx create-react-app .
+
+-----------
+useParams:
+-----------
+import { useParams } from "react-router-dom";
+
+
+const ProductDetailsPage = () => {
+
+    const { id } = useParams();
+    console.log(id);
+    return <p>This is Product Details Page {id}</p>;
+}
+

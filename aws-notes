@@ -1,1 +1,23 @@
+Computer -> Router -> Switch -> multiple computers
+
+Cloud Computing: On demand delivery of computer power, storage & other IT resources
+                 Pay-as-you-go Pricing
+
+
+-----------------
+Deployment Clouds: 
+-----------------
+Private Cloud: limited to one organization. It can be on premises
+Public Cloud: Azure, AWS, Google Cloud
+Hybrid: Private & Hybrid
+
+Scalibility, Agility, High Availability, Fault Tolerance
+
+-----------------------
+Type of Cloud Computing
+-----------------------
+
+Iaas: Ec2 : Application, Data, OS, Runtime.
+PaaS: Focus on deployment & management of your applications. Manage Applications & Data. Elastic Bean Stalk
+SaaS: All managed by AWS. Rekognition, Gmail
 
